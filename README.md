@@ -9,7 +9,7 @@ Meu nome é Schubert Santos,
 
 Sou um apaixonado por tecnologia e o mundo da Programação. 
 
-Estou em transição de Carreira deixando a área de Marketing Digital (Gestão de Tráfego Pago e Freelancer e Autônomo em Desenvolvimento de Sites, Páginas de Vendas e Lojas virtuais através da plataforma do Worpress) para trabalhar somente com Desenvolvimento WEB tanto no FrontEnd quanto no BackEnd utilizando linguagens como HTML, CSS, JAVASCRIPT, NODE, REACT e muito mais com o objetivo de me tornar um Desenvolvedor FullStack.
+Estou em transição de Carreira deixando a área de Marketing Digital (Gestão de Tráfego Pago e Freelancer e Autônomo em Desenvolvimento de Sites, Páginas de Vendas e Lojas virtuais através da plataforma do Wordpress) para trabalhar somente com Desenvolvimento WEB tanto no FrontEnd quanto no BackEnd utilizando linguagens como HTML, CSS, JAVASCRIPT, NODE, REACT e muito mais com o objetivo de me tornar um Desenvolvedor FullStack.
 
 Então seja muito bem vindo ao Meu Mundo!!!
 Espero que goste de alguns dos projetos que estou desenvolvendo. 
