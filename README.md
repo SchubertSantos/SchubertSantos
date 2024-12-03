@@ -18,8 +18,13 @@ Grande abraço e sucesso para nós!
 
 Lema: Antes da dar certo vai dar Errado!!!
 
-
 </p>
+
+<div>
+     <a href="https://www.instagram.com/schubert.asantos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+     <a href="https://www.youtube.com/channel/schubertsantos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+     <a href="https://www.linkedin.com/in/schubertsantos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 
 
