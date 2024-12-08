@@ -9,7 +9,7 @@ Meu nome é Schubert Santos,
 
 Sou um apaixonado por tecnologia e o mundo da Programação. 
 
-Estou em transição de Carreira deixando a área de Marketing Digital (Gestão de Tráfego Pago e Freelancer e Autônomo em Desenvolvimento de Sites, Páginas de Vendas e Lojas virtuais através da plataforma do Wordpress) para trabalhar somente com Desenvolvimento WEB tanto no FrontEnd quanto no BackEnd utilizando linguagens como HTML, CSS, JAVASCRIPT, NODE, REACT e muito mais com o objetivo de me tornar um Desenvolvedor FullStack.
+Estou em transição de Carreira deixando a área de Marketing Digital (Gestão de Tráfego Pago e Freelancer e Autônomo em Desenvolvimento de Sites, Páginas de Vendas e Lojas virtuais através da plataforma do Wordpress) para trabalhar somente com Desenvolvimento WEB tanto no Front-End quanto no Back-End utilizando linguagens como HTML, CSS, JAVASCRIPT, NODE, REACT e muito mais com o objetivo de me tornar um Desenvolvedor FullStack.
 
 Então seja muito bem vindo ao Meu Mundo!!!
 Espero que goste de alguns dos projetos que estou desenvolvendo. 
@@ -22,7 +22,7 @@ Lema: Antes da dar certo vai dar Errado!!!
 
 <div>
      <a href="https://www.instagram.com/schubert.asantos"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-     <a href="https://www.youtube.com/channel/schubertsantos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+     <a href="https://www.youtube.com/@schubertsantos9014"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
      <a href="https://www.linkedin.com/in/schubertsantos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
